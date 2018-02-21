@@ -1,3 +1,5 @@
 current.file.name=application-prod.yml
 
 current.label=mirror
+
+current.user=kute-prod
