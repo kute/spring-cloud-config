@@ -3,4 +3,4 @@ current:
     application:
       name: pure-cloud-config
       branch: dev
-  active: test
+    active: test
