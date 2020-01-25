@@ -1,6 +1,7 @@
 current:
-  profile:
-    application:
-      name: pure-cloud-config
-      branch: dev
-  active: test
+  config:
+    profile:
+      application:
+        name: pure-cloud-config
+        branch: dev
+    active: test
